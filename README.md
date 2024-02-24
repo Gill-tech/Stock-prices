@@ -10,6 +10,9 @@ This repository contains code and analysis for stock price prediction and analys
 - **models**: Saved model files.
 - **reports**: Analysis reports or visualizations.
 
+  ![5](https://github.com/Gill-tech/Stock-prices/assets/101551262/222cbc3e-69ce-4511-8c6e-7fb601435d18)
+
+
 Dependencies
 Python 3.x
 Pandas
